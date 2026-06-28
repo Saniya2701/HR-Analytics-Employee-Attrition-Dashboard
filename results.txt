@@ -1,0 +1,58 @@
+HR Analytics - Employee Attrition Dashboard
+===========================================
+
+Business Questions
+------------------
+
+1. What is the average age of employees who left the organization?
+2. Which department experiences the highest employee attrition?
+3. How does salary influence employee attrition?
+4. How does employee tenure impact attrition?
+5. What is the relationship between education background and attrition?
+6. Is there any difference in attrition rates across genders?
+7. How does attrition vary across departments?
+8. Which salary groups are more likely to leave the organization?
+9. Which employee segments require immediate retention initiatives?
+
+Key Insights
+------------
+
+• The average age of employees leaving the organization is approximately 37 years.
+
+• The Research & Development department recorded the highest attrition, followed by the Sales department.
+
+• Employees earning less than $5,000 per month contributed to the highest proportion of attrition cases.
+
+• Early-career employees with 1–3 years of experience exhibited significantly higher attrition rates.
+
+• Employees from Life Sciences and Medical educational backgrounds represented a major share of employee turnover.
+
+• Male employees experienced slightly higher attrition compared to female employees.
+
+• Job Level 1 employees showed the highest attrition, indicating greater turnover among entry-level employees.
+
+• Lower salary bands were strongly associated with increased employee attrition.
+
+Business Recommendations
+------------------------
+
+1. Develop targeted retention programs for early-career employees.
+
+2. Introduce employee engagement and career development initiatives in the Research & Development department.
+
+3. Review compensation policies for employees in lower salary brackets to improve retention.
+
+4. Strengthen learning, mentoring, and career progression opportunities for employees.
+
+5. Conduct regular employee satisfaction surveys to identify potential attrition risks.
+
+6. Implement department-specific retention strategies for high-turnover teams.
+
+7. Promote a healthy work-life balance and employee well-being initiatives.
+
+8. Continuously monitor workforce metrics to support data-driven HR decision-making.
+
+Conclusion
+----------
+
+The analysis highlights that employee attrition is primarily influenced by salary, department, job level, and years at the company. Organizations can significantly improve employee retention by implementing targeted HR strategies, improving employee engagement, and providing growth opportunities.
