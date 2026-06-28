@@ -69,15 +69,18 @@ Employee attrition significantly impacts organizational productivity and busines
 
 ### Overview Dashboard
 
-(Add Screenshot Here)
+<img width="1061" height="592" alt="image" src="https://github.com/user-attachments/assets/91363d0a-557c-4fbc-a2eb-1ce50f0cbb46" />
+
 
 ### Key Insights Dashboard
 
-(Add Screenshot Here)
+<img width="1049" height="587" alt="image" src="https://github.com/user-attachments/assets/61ada81f-f6ca-48d0-bf8f-5f48fc4c3d6c" />
+
 
 ### Business Recommendations Dashboard
 
-(Add Screenshot Here)
+<img width="1052" height="590" alt="image" src="https://github.com/user-attachments/assets/654624bc-05cf-42b1-b914-49041a2a2bd3" />
+
 
 ---
 
@@ -111,7 +114,4 @@ Dataset Source: IBM HR Analytics Employee Attrition Dataset from Kaggle.
 
 Computer Science Engineering Student | Aspiring Data Analyst | Full Stack Developer
 
----
-
-### ⭐ If you found this project useful, consider giving it a star!
 
